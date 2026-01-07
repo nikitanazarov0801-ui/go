@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+schedule
+python-dotenv
+telebot
+pytz
